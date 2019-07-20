@@ -1,7 +1,7 @@
 {
   "name": "binary-stripes",
   "version": "1.0.0",
-  "description": "",
+  "description": "A small class for discovering patterns in user behaviour.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/will-newmarch/binary-stripes.git"
   },
-  "author": "",
+  "keywords": [
+    "user",
+    "behaviour",
+    "patterns",
+    "binary"
+  ],
+  "author": "will-newmarch",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/will-newmarch/binary-stripes/issues"
