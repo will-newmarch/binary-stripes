@@ -1,0 +1,22 @@
+{
+  "name": "binary-stripes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/will-newmarch/binary-stripes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/will-newmarch/binary-stripes/issues"
+  },
+  "homepage": "https://github.com/will-newmarch/binary-stripes#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
